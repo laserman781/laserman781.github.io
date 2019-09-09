@@ -3,17 +3,15 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vocalizer/1.0.0/vocalizer.min.js"></script>
   <font size="+1">People call me</font>
-  <font size="+2"><span class="vocalizer" data-source="auto"><font size="+1">Quade</font></span></font>
+  <font size="+4"><span class="vocalizer" data-source="auto"><font size="+1">Quade</font></span></font>
   <br><br>
   Social Media 
   <br><br>
   <link rel="stylesheet" href="../css/social-circles.min.css">
   <a class="icon-linkedin social-button color" href="https://www.linkedin.com/in/quade-howald"></a>
-  <br><br>
-  <a class="icon-google social-button color" href="mailto:quade.howald@gmail.com"></a>
+  <a class="icon-google+ social-button color" href="mailto:quade.howald@gmail.com"></a>
   <br><br>
   <a class="icon-facebook social-button color" href="https://www.facebook.com/quade.howald"></a>
-  <br><br>
   <a class="icon-instagram social-button color" href="http://instagram.com/quade.howald"></a>
   <br><br>
 theme: jekyll-theme-minimal
