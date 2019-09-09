@@ -4,12 +4,12 @@
 
 ### Category Name 1 
 
-[Judo](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Hello
+[Resume](/sample_page)
+<embed src="pdf/Christian Howald-Resume.pdf" type="application/pdf" width="100%" height="600px" />
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="pdfs/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -24,12 +24,3 @@ Hello
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
