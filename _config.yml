@@ -3,10 +3,13 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
-  Second description 
+  Social Media 
   <br><br>
   <link rel="stylesheet" href="../css/social-circles.min.css">
   <a class="icon-linkedin social-button color" href="https://www.linkedin.com/in/quade-howald"></a>
+  <a class="icon-Google+ social-button color" href="mailto:quade.howald@gmail.com"></a>
+  <a class="icon-Facebook social-button color" href="https://www.facebook.com/quade.howald"></a>
+  <a class="icon-instagram social-button color" href="http://instagram.com/quade.howald"></a>
   <br><br>
 theme: jekyll-theme-minimal
 google_analytics: UA-147457344-1 # your Google Analytics tracking ID here
