@@ -24,7 +24,7 @@
 		  <aside id="colorlib-aside" role="complementary" class="border js-fullheight">
 			<div class="text-center">
 				<div class="author-img" style="background-image: url(images/IMG_-wl1xai.jpg);"></div>
-				<h1 id="colorlib-logo"><a href="https://vinaysomawat.github.io">Vinay Somawat</a></h1>
+				<h1 id="colorlib-logo"><a href="https://laserman781.github.io">Christian Quade Howald</a></h1>
 				<p><strong>B.tech-CSE, NIT Warangal</strong></p>
 			</div>
 			<nav id="colorlib-main-menu" role="navigation" class="navbar">
@@ -58,7 +58,6 @@
                                     <hr>
                                     <p>I am a Mecatronics Engineering undergraduate student at Laurentian University, Sudbury ON, Canada.</p>
 								</div>
-									[Resume](/sample_page)
 									<embed src="pdf/Christian Howald-Resume.pdf" type="application/pdf" width="100%" height="600px" />
 				            </div>
 				        </div>
@@ -311,31 +310,6 @@
         </div>
     </section>
         
-        
-        <!------------Footer------------->
-        
-    <section class="colorlib-footer" data-section="footer">
-        <div class="colorlib-narrow-content">
-            <div class="row">
-                <div class="col-md-12">
-				    <div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
-                        <div class="hire">
-                            <p style="text-align: center"><strong>If you like my work and efforts, please consider buying me a coffee.<br>Thank you for your support!</strong></p>
-                            <div align=center>
-                                <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/r194dME8y"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
-                                <br><br><br>
-                                <p style="font-size: 30px; margin-bottom: 0px;"><a href="https://twitter.com/Vinay_Somawat" style="color: black;" class="fa fa-twitter"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-                                <a href="https://www.linkedin.com/in/vinasomawat/" style="color: black;" class="fa fa-linkedin"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-                                <a href="https://www.quora.com/profile/Vinay-Somawat" style="color: black;" class="fa fa-quora"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-                                <a href="https://github.com/vinaysomawat" style="color: black;" class="fa fa-github"></a></p>
-                            </div> 
-                                <p style="text-align: center; margin-bottom: 0px;"><strong>2019 &copy; Vinay Somawat</strong></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
 </div><!-- end:colorlib-main -->
 </div><!-- end:container-wrap -->
@@ -362,18 +336,7 @@
 
 	</body>
 </html>
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="pdfs/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ### Category Name 2
-
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
