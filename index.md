@@ -4,10 +4,9 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Chrisitan Quade Howald</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Portfolio webpage of Christian Quade Howald" />
-	<meta name="keywords" content="portfolio,website,personal website,github,projects,computer science and engineering" />
+	<meta name="keywords" content="portfolio,website,personal website,github,projects,mecatronics engineering" />
 	<meta name="author" content="Christian Quade Howald" />
         
 	</head>
