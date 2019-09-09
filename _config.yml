@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vocalizer/1.0.0/vocalizer.min.js"></script>
   <font size="+1">People call me</font>
-  <font size="+4"><span class="vocalizer" data-source="auto"><font size="+1">Quade</font></span></font>
+  <font size="+3"><span class="vocalizer" data-source="auto"><font size="+1">Quade</font></span></font>
   <br><br>
   Social Media 
   <br><br>
