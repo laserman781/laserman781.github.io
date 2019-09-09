@@ -8,11 +8,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Social Media 
   <br><br>
   <link rel="stylesheet" href="../css/social-circles.min.css">
-  <a class="icon-linkedin social-button color" href="https://www.linkedin.com/in/quade-howald"></a>
-  <a class="icon-google+ social-button color" href="mailto:quade.howald@gmail.com"></a>
-  <br><br>
-  <a class="icon-facebook social-button color" href="https://www.facebook.com/quade.howald"></a>
-  <a class="icon-instagram social-button color" href="http://instagram.com/quade.howald"></a>
+  <font size="-1"><a class="icon-linkedin social-button color" href="https://www.linkedin.com/in/quade-howald"></a></font>
+  <font size="-1"><a class="icon-googleplus social-button color" href="mailto:quade.howald@gmail.com"></a></font>
+  <font size="-1"><a class="icon-facebook social-button color" href="https://www.facebook.com/quade.howald"></a></font>
+  <font size="-1"><a class="icon-instagram social-button color" href="http://instagram.com/quade.howald"></a></font>
   <br><br>
 theme: jekyll-theme-minimal
 google_analytics: UA-147457344-1 # your Google Analytics tracking ID here
