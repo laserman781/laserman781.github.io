@@ -2,8 +2,8 @@ title: Christian Quade Howald # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vocalizer/1.0.0/vocalizer.min.js"></script>
-  Please call me 
-  <span class="vocalizer" data-source="auto"><font size="+2">Quade</font></span>
+  <font size="+1">People call me</font>
+  <font size="+2"><span class="vocalizer" data-source="auto"><font size="+1">Quade</font></span></font>
   <br><br>
   Social Media 
   <br><br>
