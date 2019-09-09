@@ -25,7 +25,7 @@
 			<div class="text-center">
 				<div class="author-img" style="background-image: url(images/IMG_-wl1xai.jpg);"></div>
 				<h1 id="colorlib-logo"><a href="https://laserman781.github.io">Christian Quade Howald</a></h1>
-				<p><strong>B.tech-CSE, NIT Warangal</strong></p>
+				<p><strong>B.Eng, Laurentian University</strong></p>
 			</div>
 			<nav id="colorlib-main-menu" role="navigation" class="navbar">
 				<div id="navbar" class="collapse">
@@ -58,8 +58,8 @@
                                     <hr>
                                     <p>I am a Mecatronics Engineering undergraduate student at Laurentian University, Sudbury ON, Canada.</p>
 								</div>
-									<embed src="pdf/Christian Howald-Resume.pdf" type="application/pdf" width="100%" height="600px" />
-				            </div>
+									<p>My Resume</p>
+									<embed src="pdf/Christian Howald-Resume.pdf" type="application/pdf" width="100%" height="600px"/>
 				        </div>
 				    </div>    
                 </div>
