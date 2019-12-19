@@ -1,0 +1,3 @@
+Add Intro text to portfolio
+Fix visual issues
+add awards and all pdfs and upload them
